@@ -1,0 +1,19 @@
+{
+  "name": "corners",
+  "version": "1.0.0",
+  "description": "Игра уголки",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Skaloshad/corners.git"
+  },
+  "author": "Danilov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Skaloshad/corners/issues"
+  },
+  "homepage": "https://github.com/Skaloshad/corners#readme"
+}
